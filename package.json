@@ -1,0 +1,25 @@
+{
+  "name": "newbot",
+  "version": "1.0.0",
+  "description": "A simple bot for discord to send messages when a commend are send to a account (commend-bot-csgo)",
+  "main": "bot.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.2.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.0",
+    "simple-youtube-api": "^5.2.1",
+    "yt-search": "^1.1.2",
+    "ytdl-core": "^2.1.1",
+    "ytdl-core-discord": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "kayoz1n",
+  "license": "GPL-3.0"
+}
